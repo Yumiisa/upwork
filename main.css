@@ -63,7 +63,7 @@ a{
     justify-content: center;
     flex-direction: column;
      margin-left: 118px;
-    margin-top: 30px;
+    margin-top: 40px;
 } 
 .booking h1{
        font-size:50px ;
@@ -77,15 +77,18 @@ a{
        font-weight:900 ;
       
 }
-.container img{
-    width: 40px;
-    height: 40px;
+
+.image3{
+    position:relative;
+    bottom:6rem;
+    left: 60rem;
+    
 }
 .image1{
     
     position:relative;
-    bottom:3.5rem;
-    left: 23rem;
+    bottom:4.5rem;
+    left: 20rem;
 }
 .image2{
     position:relative;
